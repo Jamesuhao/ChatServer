@@ -1,1 +1,0 @@
-/opt/rh/devtoolset-4/root/usr/bin/c++  -std=c++11  -rdynamic CMakeFiles/ChatClient.dir/main.cpp.o  -o ../../../bin/ChatClient -lpthread 
